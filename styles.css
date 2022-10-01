@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    background-color: dimgrey;
+}
+
+h1 {
+    color: chocolate;
+}
+
+h3 {
+    color: chocolate;
+}
+
+h4 {
+    color: chocolate;
+}
+
+h6 {
+    color: red;
+}
+
+a {
+    color: azure;
+}
+
+b {
+    color: chartreuse;
+}
+
+p {
+    margin: inherit;
+    color: wheat;
+}
