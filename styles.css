@@ -1,6 +1,6 @@
 body {
-    text-align: center;
-    background-color: dimgrey;
+    text-align:center;
+    background-color: dimgray;
 }
 
 h1 {
@@ -20,7 +20,7 @@ h6 {
 }
 
 a {
-    color: azure;
+    color: cadetblue;
 }
 
 b {
@@ -29,5 +29,4 @@ b {
 
 p {
     margin: inherit;
-    color: wheat;
 }
