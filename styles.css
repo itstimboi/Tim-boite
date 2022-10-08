@@ -1,32 +1,25 @@
-body {
-    text-align:center;
+body
+{
+    text-align: center;
     background-color: dimgray;
 }
 
-h1 {
-    color: chocolate;
+h1{
+    color: lightgoldenrodyellow;
 }
 
-h3 {
-    color: chocolate;
+h3{
+    color: lightgoldenrodyellow;
 }
 
-h4 {
-    color: chocolate;
+a{
+    color: cyan;
 }
 
-h6 {
-    color: red;
+b{
+    color: snow;
 }
 
-a {
-    color: cadetblue;
-}
-
-b {
-    color: chartreuse;
-}
-
-p {
-    margin: inherit;
+p{
+    color: white;
 }
